@@ -1,7 +1,8 @@
-<div align="center">
+<div>
+  <a href="https://app.daily.dev/Bianca_Aveno"><img src="https://api.daily.dev/devcards/330ee35351f84b74bacb2639e09de167.png?r=tr6" width="300" alt="Bianca Abbamonte Aveno's Dev Card"/></a>
   <a href="https://github.com/BiancaAbbamonte">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiancaAbbamonte&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaAbbamonte&layout=compact&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BiancaAbbamonte&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaAbbamonte&layout=compact&theme=radical"/>
 </div>
   
 ##
