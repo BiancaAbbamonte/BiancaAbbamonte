@@ -6,7 +6,7 @@
   
 ##
 
-![Snake animation](https://github.com/BiancaAbbamonte/BiancaAbbamonte/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/BiancaAbbamonte/BiancaAbbamonte/blob/output/github-contribution-grid-snake.svg)
  
 ##
 
