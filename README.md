@@ -3,10 +3,6 @@
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BiancaAbbamonte&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BiancaAbbamonte&layout=compact&theme=radical"/>
 </div>
-  
-##
-
-![snake gif](https://github.com/BiancaAbbamonte/BiancaAbbamonte/blob/output/github-contribution-grid-snake.svg)
  
 ##
 
