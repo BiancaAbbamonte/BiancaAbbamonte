@@ -1,7 +1,4 @@
 ```javascript
-## 👩‍💻 About Me
-
-```js
 const bianca = {
   pronouns: "She" | "Her",
   code: ["Python", "JavaScript", "SQL"],
@@ -34,7 +31,6 @@ const bianca = {
   currentFocus: "Empowering tech communities and exploring cloud & data solutions ☁️📊",
   funFact: "I build dashboards in Splunk just to track how much coffee I've had ☕📈"
 };
-
 ```
 
 🚀 GitHub Stats
