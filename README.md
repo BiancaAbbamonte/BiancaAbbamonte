@@ -3,6 +3,45 @@
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BiancaAbbamonte&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BiancaAbbamonte&layout=compact&theme=radical"/>
 </div>
+
+```javascript
+## 👩‍💻 About Me
+
+```js
+const bianca = {
+  pronouns: "She" | "Her",
+  code: ["Python", "JavaScript", "SQL"],
+  askMeAbout: ["cloud", "data analysis", "automation", "Splunk", "communities of practice"],
+  technologies: {
+    frontEnd: {
+      js: ["React"],
+      css: ["Bootstrap"],
+    },
+    backEnd: {
+      python: ["Flask", "FastAPI"],
+    },
+    mobileApp: {
+       crossPlatform: ["Flutter"],
+    },
+    devOps: ["GitHub Actions", "CI/CD", "Docker🐳"],
+    cloudServices: {
+      aws: ["EC2", "S3", "Lambda", "CloudWatch"],
+    },
+    databases: ["PostgreSQL", "MongoDB", "SQLite"],
+    misc: ["REST APIs", "Splunk", "Notebooks", "Bash"],
+    generativeAI: ["GPT", "Prompt Engineering"],
+  },
+  architecture: {
+    frontEnd: ["SPA"],
+    backEnd: ["microservices", "serverless"],
+    devOps: ["IaC", "Monitoring"],
+    databases: ["Relational", "NoSQL"],
+  },
+  currentFocus: "Empowering tech communities and exploring cloud & data solutions ☁️📊",
+  funFact: "Crio dashboards no Splunk até pra saber quanto café tomei na semana ☕📈"
+};
+
+```
  
 ##
 
