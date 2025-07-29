@@ -38,7 +38,7 @@ const bianca = {
     databases: ["Relational", "NoSQL"],
   },
   currentFocus: "Empowering tech communities and exploring cloud & data solutions ☁️📊",
-  funFact: "Crio dashboards no Splunk até pra saber quanto café tomei na semana ☕📈"
+  funFact: "I build dashboards in Splunk just to track how much coffee I've had ☕📈"
 };
 
 ```
