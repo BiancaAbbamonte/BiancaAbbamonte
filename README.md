@@ -1,9 +1,3 @@
-<div style="display: inline-flex">
-  <a href="https://github.com/BiancaAbbamonte">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BiancaAbbamonte&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BiancaAbbamonte&layout=compact&theme=radical"/>
-</div>
-
 ```javascript
 ## 👩‍💻 About Me
 
@@ -42,6 +36,14 @@ const bianca = {
 };
 
 ```
+
+🚀 GitHub Stats
+<div style="display: inline-flex">
+  <a href="https://github.com/BiancaAbbamonte">
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BiancaAbbamonte&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BiancaAbbamonte&layout=compact&theme=radical"/>
+</div>
+
  
 ##
 
