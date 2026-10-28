@@ -119,13 +119,13 @@ Exploring agentic AI, AI-assisted development, prompt engineering, and ways to i
       <h3>Python Automation</h3>
       <p>Automating information gathering and turning repetitive tasks into useful workflows.</p>
       <p><code>Python</code> <code>APIs</code> <code>Automation</code></p>
-      <a href="[https://github.com/BiancaAbbamonte](https://github.com/BiancaAbbamonte/API-News)">Explore my repositories</a>
+      <a href="https://github.com/BiancaAbbamonte/API-News">Explore my repositories</a>
     </td>
     <td width="50%" valign="top">
       <h3>Backend Engineering</h3>
       <p>Building and improving APIs, working with application logic, and solving backend challenges.</p>
       <p><code>Java</code> <code>Spring Boot</code> <code>REST APIs</code></p>
-      <a href="[https://github.com/BiancaAbbamonte](https://github.com/BiancaAbbamonte/api-pedidos)">Explore my repositories</a>
+      <a href="https://github.com/BiancaAbbamonte/api-pedidos">Explore my repositories</a>
     </td>
   </tr>
 </table>
