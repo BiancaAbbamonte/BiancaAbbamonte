@@ -1,1 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="165" viewBox="0 0 495 165" role="img"><title>Top Languages</title><rect x="0.5" y="0.5" width="494" height="164" rx="8" fill="#15121C" stroke="#30283A"/><text x="25" y="38" fill="#A855F7" font-family="Segoe UI, sans-serif" font-size="18" font-weight="600">Top Languages</text><text x="25" y="83" fill="#E5E7EB" font-family="Segoe UI, sans-serif" font-size="12">Preparing your language breakdown...</text><text x="25" y="110" fill="#A1A1AA" font-family="Segoe UI, sans-serif" font-size="11">GitHub Actions will replace this card automatically.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="165" viewBox="0 0 495 165" role="img">
+<title>Most used programming languages</title>
+<rect x="0.5" y="0.5" width="494" height="164" rx="8" fill="#15121C" stroke="#30283A"/>
+<g font-family="Segoe UI, Ubuntu, sans-serif">
+<text x="25" y="32" fill="#A855F7" font-size="18" font-weight="600">Top Languages</text>
+<clipPath id="barClip"><rect x="25" y="52" width="445" height="9" rx="4.5"/></clipPath>
+<g clip-path="url(#barClip)">
+<rect x="25.00" y="52" width="366.17" height="9" fill="#DA5B0B"/>
+<rect x="390.67" y="52" width="32.97" height="9" fill="#00B4AB"/>
+<rect x="423.14" y="52" width="17.21" height="9" fill="#F34B7D"/>
+<rect x="439.85" y="52" width="16.15" height="9" fill="#3572A5"/>
+<rect x="455.50" y="52" width="15.00" height="9" fill="#A855F7"/>
+</g>
+<circle cx="30" cy="81" r="4" fill="#DA5B0B"/>
+<text x="41" y="85" fill="#E5E7EB" font-size="11">Jupyter Notebook</text>
+<text x="230" y="85" fill="#A1A1AA" font-size="11" text-anchor="end">82.2%</text>
+<circle cx="265" cy="81" r="4" fill="#00B4AB"/>
+<text x="276" y="85" fill="#E5E7EB" font-size="11">Dart</text>
+<text x="465" y="85" fill="#A1A1AA" font-size="11" text-anchor="end">7.3%</text>
+<circle cx="30" cy="106" r="4" fill="#F34B7D"/>
+<text x="41" y="110" fill="#E5E7EB" font-size="11">C++</text>
+<text x="230" y="110" fill="#A1A1AA" font-size="11" text-anchor="end">3.8%</text>
+<circle cx="265" cy="106" r="4" fill="#3572A5"/>
+<text x="276" y="110" fill="#E5E7EB" font-size="11">Python</text>
+<text x="465" y="110" fill="#A1A1AA" font-size="11" text-anchor="end">3.5%</text>
+<circle cx="30" cy="131" r="4" fill="#A855F7"/>
+<text x="41" y="135" fill="#E5E7EB" font-size="11">CMake</text>
+<text x="230" y="135" fill="#A1A1AA" font-size="11" text-anchor="end">3.3%</text>
+</g>
+</svg>
