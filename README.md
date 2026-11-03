@@ -143,10 +143,10 @@ Exploring agentic AI, AI-assisted development, prompt engineering, and ways to i
 <div align="center">
 
 <a href="https://github.com/BiancaAbbamonte">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BiancaAbbamonte&show_icons=true&hide_border=true&bg_color=15121C&title_color=A855F7&icon_color=E11D48&text_color=E5E7EB&include_all_commits=true" alt="Bianca's GitHub statistics" />
+  <img height="165" src="./assets/github-stats.svg" alt="Bianca's GitHub statistics" />
 </a>
 <a href="https://github.com/BiancaAbbamonte">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaAbbamonte&layout=compact&hide_border=true&bg_color=15121C&title_color=A855F7&text_color=E5E7EB" alt="Most used programming languages" />
+  <img height="165" src="./assets/top-languages.svg" alt="Most used programming languages" />
 </a>
 
 </div>
